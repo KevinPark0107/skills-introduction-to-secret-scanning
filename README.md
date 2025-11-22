@@ -6,7 +6,7 @@ _GitHub scans repositories for known types of secrets, such as API keys and auth
 
 </header>
 
-## Finish 🏆
+## Finish  🏆
 
 _Congratulations friend, you've completed this course!_ 
 
